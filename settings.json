@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "XTGuardian",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "FrostyyySMP.aternos.me",
+    "port": 50054,
     "version": "1.20.1",
     "try-creative": false
   },
